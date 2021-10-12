@@ -2,3 +2,6 @@ GET http://localhost:3000/first_contact.json
 
 ###
 GET http://localhost:3000/contacts
+
+###
+GET http://localhost:3000/last_contact.json

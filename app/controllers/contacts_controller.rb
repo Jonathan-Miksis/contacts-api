@@ -7,5 +7,8 @@ class ContactsController < ApplicationController
     contacts = Contact.all
     render json: contacts.as_json
   end
-
+  def last_contact
+    contact_last = Contact.last
+    render json: {contact: contact_last}
+  end
 end
