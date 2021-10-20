@@ -5,3 +5,6 @@ GET http://localhost:3000/contacts
 
 ###
 GET http://localhost:3000/last_contact.json
+
+###
+POST http://localhost:3000/contacts
