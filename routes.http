@@ -11,5 +11,6 @@ Content-Type: application/json
   "first_name": "Jon",
   "last_name": "Miksis",
   "email": "jmiksis13@gmail.com",
-  "phone_number": "603-812-7478"
+  "phone_number": "603-812-7478",
+  "address": "379 Cook Ave, Scotch Plains, NJ 07076"
 }
